@@ -1,0 +1,10 @@
+{
+  "PORT" : 8080,
+  "databaseSettings" :{
+    "host"    : "localhost",
+    "user"    : "root",
+    "password": "password",
+    "database" : "mydb",
+    "mongo_db_connection":"mongodb://127.0.0.1:27017/db_card_game"
+  }
+}
